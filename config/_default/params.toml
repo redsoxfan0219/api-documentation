@@ -4,7 +4,7 @@
 title = "Ben Barksdale API Docs"
 titleSeparator = "-"
 titleAddition = "Technical Writing, Documentation, Information Architecture"
-description = "This site contains the contents of my professional portfolio."
+description = "This site contains the contents a sample of API docs for my professional portfolio."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -17,7 +17,7 @@ titleHome = "Doks Theme"
 
 ## JSON-LD
 schemaType = "Person"
-schemaName = "Ben Barksdale's Portfolio"
+schemaName = "Ben Barksdale's API Docs"
 schemaAuthor = "Ben Barksdale"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/ben-moran-barksdale-ph-d-83a449175/"
 schemaAuthorGitHub = "https://github.com/redsoxfan0219"
@@ -47,7 +47,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Feed
-copyRight = "Copyright (c) 2022 Ben Barksdale"
+copyRight = "Copyright (c) 2023 Ben Barksdale"
 
 # Alert
 alert = false
