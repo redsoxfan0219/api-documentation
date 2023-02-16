@@ -10,4 +10,4 @@ images: []
 
 This site is an adjunct to my primary portfolio site. It contains my sample API documentation.
 
-Return to my portfolio [here](https://benbarksdale.netlify.app).
+Return to my portfolio **[here](https://benbarksdale.netlify.app)**.
