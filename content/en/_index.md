@@ -1,7 +1,7 @@
 ---
 title : Ben Barksdale API Docs
 description: Technical Writing, Documentation, Information Architecture
-lead: Sample API docs
+lead:
 date: 2023-02-15
 lastmod: 2023-02-15
 draft: false
