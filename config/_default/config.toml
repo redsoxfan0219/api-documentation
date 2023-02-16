@@ -1,4 +1,4 @@
-baseurl = "https://benbarksdale.netflify.app"
+baseurl = "https://benbarksdaleapidocs.netflify.app"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
